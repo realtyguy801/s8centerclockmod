@@ -7,4 +7,20 @@
     <bool name="config_showOperatorNameInStatusBar">true</bool>
     <bool name="config_enableLockScreenRotation">true</bool>
 
+<bool name="config_invert_colors_on_doze">false</bool>
+<bool name="config_allowNotificationIconTextTinting">true</bool>
+<bool name="config_allowAllRotations">true</bool>
+<bool name="config_dreamsEnabledOnBattery">true</bool>
+<bool name="config_safe_media_volume_enabled">false</bool>
+<bool name="config_useVolumeKeySounds">false</bool>
+<bool name="config_enableLockScreenRotation">true</bool>
+<bool name="config_enableBurnInProtection">true</bool>
+<bool name="config_forceDefaultOrientation">false</bool>
+<bool name="config_enableCpuBoostForPanelViewFling">true</bool>
+<bool name="lockscreen_isPortrait">false</bool>
+<bool name="config_enableHorizontalMode">true</bool>
+<bool name="config_enableKeypressOptimization">true</bool>
+<bool name="config_disablePacking">true</bool>
+<bool name="config_enablePerfBoostForAnimation">true</bool>
+
 </resources>
