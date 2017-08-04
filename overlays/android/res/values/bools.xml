@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_safe_media_volume_enabled">false</bool>
+    <bool name="config_enableBurnInProtection">true</bool>
+    <bool name="config_dateformat">true</bool>
+    <bool name="config_allowAllRotations">true</bool>
+    <bool name="config_showOperatorNameInStatusBar">true</bool>
+    <bool name="config_enableLockScreenRotation">true</bool>
+
+</resources>

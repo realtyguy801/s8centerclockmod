@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="support_private_mode">true</bool>
+    <bool name="enable_imei_barcode_display">true</bool>
+    <bool name="has_home_settings_shortcut">true</bool>
+    <bool name="has_home_settings_widget">true</bool>
+    <bool name="homescreen_has_gridmode">true</bool>
+    <bool name="support_bluelight_filter">true</bool>
+    <bool name="config_enableColorTemperature">true</bool>
+    <bool name="has_powercontrol_widget">true</bool>
+</resources>

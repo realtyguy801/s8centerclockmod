@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_show_battery_charging_anim">true</bool>
+    <bool name="config_statusBarShowNumber">true</bool>
+    <bool name="force_only_clock_page">false</bool>
+    <bool name="kg_use_all_caps">false</bool>
+    <bool name="config_showAmpm">false</bool>
+</resources>
